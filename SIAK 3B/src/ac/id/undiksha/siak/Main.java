@@ -15,7 +15,7 @@ public class Main {
 		ani.setAlamat("Singaraja");
 		ani.setTanggalLahir("1 Januari 2000");
 		ani.setJenisKelamin(true);
-		ani.setProdi("Ilmu Komputer");
+		//ani.setProdi("Ilmu Komputer");
 		
 		Dosen deva = new Dosen();
 		
